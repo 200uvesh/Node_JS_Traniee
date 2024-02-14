@@ -1,0 +1,21 @@
+container{
+    display: flex;
+    flex-direction: row;
+    margin: 20%;
+    padding: 10%;
+}
+#btn-start{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 10%;
+
+
+}
+#btn-stop{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 10%;
+
+}
