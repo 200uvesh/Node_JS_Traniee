@@ -1,0 +1,12 @@
+container{
+    max-width: fit-content;
+    max-height: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+chat-box{
+    width: 60%;
+    height: 30%;
+    margin: auto;
+    padding: 20%;
+}

@@ -1,0 +1,5 @@
+const email = document.getElementById("email")
+const password = document.getElementById("password")
+const age = document.getElementById("age")
+const username = document.getElementById("username")
+console.log(email)

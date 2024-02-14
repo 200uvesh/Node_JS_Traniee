@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <div class="container">
+        <h2> Contact Form </h2>
+        <input type="text"  id="username" placeholder="Enter Your Username"  required>
+        <br>
+        <input type="email" id="email" placeholder="Enter your Email" required>
+        <br>
+         <textarea   id="details"   rows="10"></textarea>
+        <br>
+        <button type="submit"  onclick="submit()"> Submit</button> 
+
+     </div>
+    
+</body>
+<script src="index.js"></script>
+<script src="https://smtpjs.com/v3/smtp.js">
+</script>
+</html>

@@ -1,0 +1,23 @@
+ 
+ .div{
+
+    
+    display: flex;
+    flex-direction: row;
+    padding:30%;
+
+    
+    
+ }
+ #container1{
+    background-color: blueviolet;
+    max-width: fit-content;
+    max-height: fit-content;
+     
+ }
+ #container2{
+    background-color: blanchedalmond;
+    max-width: fit-content;
+    max-height: fit-content;
+     
+ }
